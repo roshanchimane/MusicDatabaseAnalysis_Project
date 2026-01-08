@@ -40,6 +40,4 @@ This project analyzes a music store's database using SQL queries. It provides in
 
     Run the SQL queries in your database client to generate insights. Modify queries as needed to explore different aspects of the dataset.
 
-#Contributing
 
-    Feel free to submit issues or pull requests to enhance this analysis.
