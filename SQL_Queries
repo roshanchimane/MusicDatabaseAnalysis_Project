@@ -12,7 +12,6 @@ GROUP BY billing_country
 ORDER BY count(*) desc
 limit 1
 
-
 -- Q3: What are top 3 values of invoice table
 
 SELECT total , billing_country
@@ -28,7 +27,6 @@ group by billing_city
 order by invoice_total desc
 limit 3
 limit 5
-
 
 select customer.customer_id,customer.first_name,customer.last_name ,SUM(total) as total
 from customer
@@ -53,7 +51,6 @@ WHERE track_id IN(
 	WHERE genre.name LIKE 'Rock'
 )
 ORDER BY email;
-
 
 -- write a query that returns artist name and 
 -- total track count of top 10 rock bands
