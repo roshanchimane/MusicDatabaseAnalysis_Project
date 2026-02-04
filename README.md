@@ -19,14 +19,14 @@ This project analyzes a music store's database using SQL queries. It provides in
     Provides various insights into sales and customer data.
 
 
-#Technologies Used
+# Technologies Used
 
     SQL (Structured Query Language)
     
     PostgreSQL/MySQL (Ensure compatibility with your database)
     
 
-#Installation
+# Installation
 
     Clone the repository:
     
@@ -36,7 +36,7 @@ This project analyzes a music store's database using SQL queries. It provides in
     
     Execute queries using an SQL client.
 
-#Usage
+# Usage
 
     Run the SQL queries in your database client to generate insights. Modify queries as needed to explore different aspects of the dataset.
 
