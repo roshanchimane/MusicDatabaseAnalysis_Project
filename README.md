@@ -26,7 +26,7 @@ This project analyzes a music store's database using SQL queries. It provides in
     PostgreSQL/MySQL (Ensure compatibility with your database)
     
 
-# Installation
+## Installation
 
     Clone the repository:
     
