@@ -19,7 +19,7 @@ This project analyzes a music store's database using SQL queries. It provides in
     Provides various insights into sales and customer data.
 
 
-# Technologies Used
+## Technologies Used
 
     SQL (Structured Query Language)
     
