@@ -140,7 +140,6 @@ WITH Customter_with_country AS (
 SELECT * FROM Customter_with_country WHERE RowNo <= 1
 
 /* Method 2 */
-
 WITH RECURSIVE 
 	customter_with_country AS (
 		SELECT customer.customer_id,first_name,last_name,billing_country,SUM(total) AS total_spending
