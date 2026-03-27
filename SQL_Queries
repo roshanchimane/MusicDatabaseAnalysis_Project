@@ -1,4 +1,5 @@
 -- Q1: find senior most employee based on job title?
+
 SELECT first_name,levels FROM employee
 order by levels desc
 limit 1
