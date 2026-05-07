@@ -1,5 +1,5 @@
 ## MusicDatabaseAnalysis_Project
-
+ 
 ### Overview
 
 This project analyzes a music store's database using SQL queries. It provides insights into customer behavior, sales trends, and employee data. The dataset includes tables such as employee, invoice, customer, and tracks.
