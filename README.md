@@ -6,7 +6,7 @@ This project analyzes a music store's database using SQL queries. It provides in
   
 ## Features
  
-    Identifies the senior-most employee based on job title.
+    Identifies the senior-most employee based on job title. 
     
     Determines the country with the most invoices.
     
